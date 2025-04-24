@@ -1,4 +1,5 @@
 # Hackustry
+probably like 20% ported to v7.0
 First Mindustry cheat mod ever made.
 
 ### Some clarifications
