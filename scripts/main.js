@@ -4,7 +4,6 @@
 */
 
 Core.settings.put("console", true);
-Core.settings.save();
 
 if(Vars.headless){
     throw "no server support yet";
