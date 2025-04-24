@@ -3,7 +3,8 @@
     have fun trying to read it without dying
 */
 
-Vars.enableConsole = true;
+Core.settings.put("console", true);
+Core.settings.save();
 
 if(Vars.headless){
     throw "no server support yet";
